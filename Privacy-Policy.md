@@ -6,7 +6,6 @@ Your privacy is critically important to us. At Junction, we have a few fundament
 -   We are thoughtful about the personal information we ask you to provide and the personal information that we collect about you through the operation of our services.
 -   We store personal information for only as long as we have a reason to keep it.
 -   We aim to make it as simple as possible for you to control what information on your website is shared publicly (or kept private), indexed by search engines, and permanently deleted.
--   We help protect you from overreaching government demands for your personal information. &&??
 -   We aim for full transparency on how we gather, use, and share your personal information.
 
 Below is our Privacy Policy, which incorporates and clarifies these principles.
@@ -28,7 +27,7 @@ Below we explain how we collect, use, and share information about you, along wit
 
 ### Creative Commons Sharealike License
 
-We've decided to make this Privacy Policy available under a [Creative Commons Sharealike](https://creativecommons.org/licenses/by-sa/4.0/) license. You can grab a copy of this Privacy Policy and other legal documents on [GitHub](https://github.com/Junction/legalmattic). You're more than welcome to copy it, adapt it, and repurpose it for your own use. Just make sure to revise the language so that your policy reflects your actual practices. If you do use it, we'd appreciate a credit and link to Junction somewhere on your site. &&?? Do we credit automatic??
+We've decided to make this Privacy Policy available under a [Creative Commons Sharealike](https://creativecommons.org/licenses/by-sa/4.0/) license.  This is a forked from Wordpress' legal docs on [GitHub](https://github.com/Automattic/legalmattic). You can grab a copy of this Privacy Policy and other legal documents on [GitHub](https://github.com/Junction/legalmattic). You're more than welcome to copy it, adapt it, and repurpose it for your own use. Just make sure to revise the language so that your policy reflects your actual practices. If you do use it, we'd appreciate a credit and link to Junction somewhere on your site. 
 
 ### Information We Collect
 
@@ -52,7 +51,7 @@ We also collect some information automatically:
 
 -   **Log information:** Like most online service providers, we collect information that web browsers, mobile devices, and servers typically make available, including the browser type, IP address, unique device identifiers, language preference, referring site, the date and time of access, operating system, and mobile network information. We collect log information when you use our Services — for example, when you create or make changes to your website on junction.express.
 -   **Transactional information:** When you make a purchase through our Services, we collect information about the transaction, such as product details, purchase price, and the date and location of the transaction.
--   **Usage information:** We collect information about your usage of our Services. For example, we collect information about the actions that site administrators and users perform on a site using our Junction.express — in other words, who did what and when (e.g., [Junction.express name] deleted "[title of post]" at [time/date]). We also collect information about what happens when you use our Services (e.g., number of API requests, IP address of the request, features enabled for your Junctions, interactions with our Interface and other parts of our Services) along with information about your device (e.g., screen size, name of cellular network, and mobile device manufacturer). We use this information to, for example, provide our Services to you, get insights on how people use our Services so we can make our services better, and understand and make predictions about user retention. &&??
+-   **Usage information:** We collect information about your usage of our Services. For example, we collect information about the actions that site administrators and users perform on a site using our Junction.express — in other words, who did what and when (e.g., [Junction.express name] deleted "[title of post]" at [time/date]). We also collect information about what happens when you use our Services (e.g., number of API requests, IP address of the request, features enabled for your Junctions, interactions with our Interface and other parts of our Services) along with information about your device (e.g., screen size, name of cellular network, and mobile device manufacturer). We use this information to, for example, provide our Services to you, get insights on how people use our Services so we can make our services better, and understand and make predictions about user retention.
 -   **Location information:** We may determine the approximate location of your device from your IP address. We collect and use this information to, for example, calculate how many people visit our Services from certain geographic regions.
 -   **Information from cookies & other technologies:** A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. Pixel tags (also called web beacons) are small blocks of code placed on websites and emails. Junction uses cookies and other technologies like pixel tags to help us identify and track visitors, usage, and access preferences for our Services, as well as track and understand email campaign effectiveness and to deliver targeted ads.
 
@@ -71,7 +70,7 @@ We use information about you for the purposes listed below:
 -   **To customize the user experience.** For example, to personalize your experience by serving you relevant notifications and advertisements for our Services, recommending content through our Reader post suggestions, and providing new essays and stories through Longreads for your reading pleasure.
 -   **To communicate with you.** For example, by emailing you to ask for your feedback, share tips for getting the most out of our products, or keep you up to date on Junction; texting you to verify your payment; or calling you to share offers and promotions that we think will be of interest to you. If you don't want to hear from us, you can opt out of marketing communications at any time. (If you opt out, we'll still send you important updates relating to your account.)
 
-#### *Legal Bases for Collecting and Using Information* &&??
+#### *Legal Bases for Collecting and Using Information*
 
 A note here for those in the European Union about our legal grounds for processing information about you under EU data protection laws, which is that our use of your information is based on the grounds that:
 
@@ -133,19 +132,6 @@ You have several choices available when it comes to information about you:
 
 You also have the right to make a complaint to a government supervisory authority.
 
-***Right to Opt Out*** &&?? thinking of removing this section
-
-We never directly sell your personal information in the conventional sense (i.e., for money).
-
-We may share your information as necessary with our third-party service providers to provide our services to you.
-
-You can learn more about this sharing and how to opt out by clicking the "Do Not Sell My Personal Information" link in the footer of our websites, or from the settings page within our apps. Note that in some instances this link will only display to individuals visiting our sites from within the relevant states.
-
-Our opt-out is managed through cookies, so if you delete cookies, your browser is set to delete cookies automatically after a certain length of time, or if you visit sites in a different browser, you'll need to make this selection again.
-
-We also respect the GPC browser signal and will treat it as a valid means of communicating your desire to opt out.
-
-We do not collect or process your sensitive (and potentially sensitive) personal information except where it is strictly necessary to provide you with our service, where the processing is not for the purpose of inferring characteristics about you, or for other purposes that do not require an option to limit under California law. We don't knowingly sell or share personal information of those under 16.
 
 
 #### *Contacting Us About These Rights*
@@ -169,12 +155,12 @@ Depending on the Services you use, more than one company may be the controller o
 
 ### How to Reach Us
 
-If you have a question about this Privacy Policy, or you would like to contact us about any of the rights mentioned in the [Your Rights section](https://Junction.com/legal/privacy-policy/#your-rights) above, please contact us via [email](mailto:junction@wildfire.world).
+If you have a question about this Privacy Policy, or you would like to contact us about any of the rights mentioned in the [Your Rights section](https://Junction.express/legal/privacy-policy/#your-rights) above, please contact us via Email: [junction@wildfire.world](mailto:junction@wildfire.world).
 
 ### Other Things You Should Know (Keep Reading!)
 
 
-#### *Visitors to Our Users' Websites* &&?? for when plausable 
+#### *Visitors to Our Users' Websites*
 
 We also process information about visitors to our users' websites, on behalf of our users and in accordance with our user agreements. Please note that our processing of that information on behalf of our users for their websites isn't covered by this Privacy Policy. We encourage our users to post a privacy policy that accurately describes their practices on data collection, use, and sharing of personal information. 
 

@@ -10,15 +10,15 @@ We (the [folks at Samanvay Web Private Limited](https://wildfiretech.co/page/abo
 
 These Terms of Service (”Terms”) describe our commitments to you, and your rights and responsibilities when using our services. Please read them carefully and reach out to us if you have any questions.** If you don’t agree to these Terms, don’t use our services.**
 
-If you are a user in countries located in the European Economic Area, Switzerland, or the United Kingdom (“European User”), some special terms apply to you as mentioned below.**\ &&??
+If you are a user in countries located in the European Economic Area, Switzerland, or the United Kingdom (“European User”), some special terms apply to you as mentioned below.**\ 
 **
 
-We’ve made these Terms available under a [Creative Commons Sharealike license](https://creativecommons.org/licenses/by-sa/4.0/), which means that you’re more than welcome to copy them, adapt them, and repurpose them for your own use. Just make sure to revise them so that your Terms of Service reflect your actual practices. Also, if you do use these Terms, we’d appreciate a credit and link to Samanvay Web Private Limited somewhere on your website. You can grab a copy of these Terms and other legal documents on [GitHub](https://github.com/junction-express/junction-legal). &&?? How to give wordpress credit
+We’ve made these Terms available under a [Creative Commons Sharealike license](https://creativecommons.org/licenses/by-sa/4.0/), which means that you’re more than welcome to copy them, adapt them, and repurpose them for your own use. This is a forked from Wordpress' legal docs on [GitHub](https://github.com/Automattic/legalmattic). Just make sure to revise them so that your Terms of Service reflect your actual practices. Also, if you do use these Terms, we’d appreciate a credit and link to Samanvay Web Private Limited somewhere on your website. You can grab a copy of these Terms and other legal documents on [GitHub](https://github.com/junction-express/junction-legal).
 
 Terms of Service
 ----------------
 
-These Terms govern your access to and use of the software, applications, extensions, and other products and services we provide through or for [Junction](https://junction.express/) Please note that junction-related products and services are intended for commercial use and you acknowledge that your use is that of a representative of a business (as defined by applicable law) and not that of a consumer. &&??
+These Terms govern your access to and use of the software, applications, extensions, and other products and services we provide through or for [Junction](https://junction.express/) Please note that junction-related products and services are intended for commercial use and you acknowledge that your use is that of a representative of a business (as defined by applicable law) and not that of a consumer.
 
 These Terms also govern visitors’ access to and use of any websites that use our Services, like the websites that our users create on junction.express. Please note though that the operators of those websites may also have their own separate terms of use.
 
@@ -144,7 +144,7 @@ To be transparent about what is and isn’t allowed on jucntion, we’ve put tog
 
 *Intellectual property infringement.*junction allows you to store and share some aspects of your information, so we recognize that copyrighted materials are often used in fair use context. We strongly support this and urge copyright holders to take this into consideration before submitting complaints. If you’re not sure, a good rule of thumb is to always ask the rights holder for permission before using their information that is publicly shared.
 
-*Sexually explicit material.*We know that there may be different definitions of this, but generally, we define sexually explicit material as visual depictions of sexually explicit acts. Nudity, in and of itself, is fine. &&??
+*Sexually explicit material.*We know that there may be different definitions of this, but generally, we define sexually explicit material as visual depictions of sexually explicit acts. Nudity, in and of itself, is fine.
 
 *Gambling.*Discussing gambling on your site isn’t a problem. However, operating an online gambling service (including poker)? No dice. Please also be aware that if your site is primarily designed to link to other gambling sites, we consider this spam, and a breach of the user guidelines.
 
@@ -229,3 +229,4 @@ The Agreement (together with any other terms we provide that apply to any specif
 Samanvay Web Private Limited may assign its rights under the Agreement without condition. You may only assign your rights under the Agreement with our prior written consent.
 
 
+Terms of service log - https://github.com/junction-express/junction-legal
