@@ -6,19 +6,19 @@ Terms of Service
 The Gist
 --------
 
-We (the [folks at Samanvay Web Private Limited](https://Samanvay Web Private Limited.com/about/)) are on a mission to make the web a better place. We hope you love our products and services — from website publishing tools to ecommerce solutions to security backup systems to management tools for distributed companies to the next great idea that we haven’t even thought of yet — as much as we love creating them.
+We (the [folks at Samanvay Web Private Limited](https://wildfiretech.co/page/about)) are on a mission to make the web a better place. We hope you love our products and services — from website publishing tools to ecommerce solutions to security backup systems to management tools for distributed companies to the next great idea that we haven’t even thought of yet — as much as we love creating them.
 
 These Terms of Service (”Terms”) describe our commitments to you, and your rights and responsibilities when using our services. Please read them carefully and reach out to us if you have any questions.** If you don’t agree to these Terms, don’t use our services.**
 
-If you are a user in countries located in the European Economic Area, Switzerland, or the United Kingdom (“European User”), some special terms apply to you as mentioned below.**\
+If you are a user in countries located in the European Economic Area, Switzerland, or the United Kingdom (“European User”), some special terms apply to you as mentioned below.**\ &&??
 **
 
-We’ve made these Terms available under a [Creative Commons Sharealike license](https://creativecommons.org/licenses/by-sa/4.0/), which means that you’re more than welcome to copy them, adapt them, and repurpose them for your own use. Just make sure to revise them so that your Terms of Service reflect your actual practices. Also, if you do use these Terms, we’d appreciate a credit and link to Samanvay Web Private Limited somewhere on your website. You can grab a copy of these Terms and other legal documents on [GitHub](https://github.com/&&??).
+We’ve made these Terms available under a [Creative Commons Sharealike license](https://creativecommons.org/licenses/by-sa/4.0/), which means that you’re more than welcome to copy them, adapt them, and repurpose them for your own use. Just make sure to revise them so that your Terms of Service reflect your actual practices. Also, if you do use these Terms, we’d appreciate a credit and link to Samanvay Web Private Limited somewhere on your website. You can grab a copy of these Terms and other legal documents on [GitHub](https://github.com/junction-express/junction-legal). &&?? How to give wordpress credit
 
 Terms of Service
 ----------------
 
-These Terms govern your access to and use of the software, applications, extensions, and other products and services we provide through or for [junction.express](https://junction.express/) Please note that junction-related products and services are intended for commercial use and you acknowledge that your use is that of a representative of a business (as defined by applicable law) and not that of a consumer.
+These Terms govern your access to and use of the software, applications, extensions, and other products and services we provide through or for [Junction](https://junction.express/) Please note that junction-related products and services are intended for commercial use and you acknowledge that your use is that of a representative of a business (as defined by applicable law) and not that of a consumer. &&??
 
 These Terms also govern visitors’ access to and use of any websites that use our Services, like the websites that our users create on junction.express. Please note though that the operators of those websites may also have their own separate terms of use.
 
@@ -29,7 +29,7 @@ Please read these Terms carefully before accessing or using our Services. By acc
 
 “You” means any individual or entity using our Services. If you use our Services on behalf of another person or entity, you represent and warrant that you’re authorized to accept the Agreement on that person’s or entity’s behalf, that by using our Services you’re accepting the Agreement on behalf of that person or entity, and that if you, or that person or entity, violates the Agreement, you and that person or entity agree to be responsible to us.
 
-We refer to Samanvay Web Private Limited Inc. as “Samanvay Web Private Limited,” “us,” or “we” throughout these Terms.
+We refer to Samanvay Web Private Limited Inc. as “Samanvay Web Private Limited,” "Junction," “us,” or “we” throughout these Terms.
 
 2\. Your Account
 ----------------
@@ -44,7 +44,7 @@ You’re solely responsible and liable for all activity under your account. You�
 
 Don’t share or misuse your access credentials. And notify us immediately of any unauthorized uses of your account, store, or website, or of any other breach of security. If we believe your account has been compromised, we may suspend or disable it.
 
-If you’d like to learn about how we handle the data you provide us, please see our [Privacy Policy](https://&&??).
+If you’d like to learn about how we handle the data you provide us, please see our [Privacy Policy](https://junction.express/legal/privacy-policy).
 
 3\. Minimum Age Requirements
 ----------------------------
@@ -69,11 +69,11 @@ Please note that additional third-party terms and conditions may apply to Conten
 5\. Fees, Payment, and Renewal
 ------------------------------
 
-### a. Samanvay Web Private Limited Fees
+### a. Junction Fees
 
-**Fees for Paid Services.** Some of our Services are offered for a fee, like certain [junction.express plans](https://junction.express/pricing/&&??). This section applies to any purchases of Paid Services.
+**Fees for Paid Services.** Some of our Services are offered for a fee, like certain [junction.express plans](https://junction.express#pricing). This section applies to any purchases of Paid Services.
 
-By using a Paid Service, you agree to pay the specified fees. Depending on the Paid Service, there may be different kinds of fees, like some that are one-time, recurring, revenue-based, or based on an advertising campaign budget that you set. For recurring fees (AKA subscriptions), your subscription begins on your purchase date, and we’ll bill or charge you in the automatically-renewing interval (such as monthly, annually, or biennially) you select, on a pre-pay basis until you cancel, which you can do at any time by contacting the relevant support team. For revenue-based fees — such as [fees for the Payments feature](https://junction.express/support&&??) — you pay us a percentage of the revenue your website generates. Revenue-based fees are ongoing.
+By using a Paid Service, you agree to pay the specified fees. Depending on the Paid Service, there may be different kinds of fees, like some that are one-time, recurring, revenue-based, or based on an advertising campaign budget that you set. For recurring fees (AKA subscriptions), your subscription begins on your purchase date, and we’ll bill or charge you in the automatically-renewing interval (such as monthly, annually, or biennially) you select, on a pre-pay basis until you cancel, which you can do at any time by contacting the relevant support team.
 
 **Taxes.** To the extent permitted by law, or unless explicitly stated otherwise, all fees do not include applicable federal, provincial, state, local or other governmental sales, value-added, goods and services, harmonized or other taxes, fees, or charges (”Taxes”). You’re responsible for paying all applicable Taxes relating to your use of our Services, your payments, or your purchases. If we’re obligated to pay or collect Taxes on the fees you’ve paid or will pay, you’re responsible for those Taxes, and we may collect payment from you.
 
@@ -81,7 +81,7 @@ By using a Paid Service, you agree to pay the specified fees. Depending on the P
 
 **Automatic Renewal. **By enrolling in a subscription, you authorize us to automatically charge the then-applicable fees and Taxes for each subsequent subscription period until the subscription is canceled. If you received a discount, used a coupon code, or subscribed during a free trial or promotion, your subscription will automatically renew for the full price of the subscription at the end of the discount period. This means that unless you cancel a subscription, it’ll automatically renew and we’ll charge your payment method(s). You must cancel at least one month before the scheduled end date of any annual subscription and at least 24 hours before the end of any shorter subscription period. The date for the automatic renewal is based on the date of the original purchase and cannot be changed. If you’ve purchased access to multiple services, you may have multiple renewal dates.
 
-You can view your renewal date(s), cancel, or manage subscriptions in your settings (for example, [junction.express’s Subscription page&&?? page](https://junction.express/subscriptions&&??) or by contacting the support team.
+You can view your renewal date(s), cancel, or manage subscriptions in your settings or by contacting the support team.
 
 **Fees and Changes.** We may change our fees at any time in accordance with these Terms and requirements under applicable law. This means that we may change our fees going forward, start charging fees for Services that were previously free, or remove or update features or functionality that were previously included in the fees. If you don’t agree with the changes, you must cancel your Paid Service.
 
@@ -93,12 +93,12 @@ We may have a “no-show policy” for some Paid Services that require your part
 
 If you cancel this contract, we will reimburse you all payments we have received from you, including delivery costs (with the exception of additional costs resulting from the fact that you have chosen a type of delivery other than the most favorable standard delivery offered by us), without undue delay and no later than within fourteen days from the day on which we received the notification of your cancellation of this contract. For this repayment, we will use the same means of payment that you used for the original transaction, unless expressly agreed otherwise with you; you will not be charged for this repayment. If we have already begun our services during the withdrawal period, you will pay us a prorated amount corresponding to the services already provided up to the time you notify us of the exercise of the withdrawal right compared to the total scope of the services provided for in the contract. If you cancel your contract with us, you will refrain from using the digital content or digital services or making them available to third parties.
 
-You may exercise your right to withdrawal by sending a clear, written request to: &&?? Aut O’Mattic A8C Ireland Ltd., Grand Canal Dock, 25 Herbert Pl, Dublin, D02 AY86 Ireland or by using [this model form](https://junction.express/support/right-to-withdrawal/).
+You may exercise your right to withdrawal by sending a clear, written request to: [this email ID](mailto:junction@wildfire.world).
 
 6\. Feedback
 ------------
 
-We love hearing from you and are always looking to improve our Services. When you share comments, ideas, or feedback with us, you agree that we’re free to use them without any restriction or compensation to you.
+We love hearing from you and are always looking to improve our Services. When you share comments, ideas, or feedback with us, you agree that we’re free to use them without any restriction or compensation to you. [This email ID](mailto:junction@wildfire.world)
 
 7\. General Representation and Warranty
 ---------------------------------------
@@ -124,13 +124,13 @@ Our mission is to make the web a better place, and our Services are designed to 
 
 [junction.express](https://junction.express/) enables you to store and publish your data, and we would love for you to use it. A junction.express account also allows you to sign into some of our other Services.
 
-junction.express’s basic service is free, and we offer [paid plans](https://junction.express/pricing/&&??) that add advanced features like extra storage. We don’t own your content, and you retain all ownership rights you have in the content you post to your website. However, be responsible in what you publish. In particular, make sure that nothing prohibited (like spam, viruses, or serious threats of violence) appears on your website.
+junction.express’s basic service is free, and we offer [paid plans](https://junction.express#pricing) that add advanced features like extra storage. We don’t own your content, and you retain all ownership rights you have in the content you post to your website. However, be responsible in what you publish. In particular, make sure that nothing prohibited (like spam, viruses, or serious threats of violence) appears on your website.
 
-If you find a junction.express website that you believe violates these Terms, please [let us know](https://en.support.junction.express/report-blogs/&&??).
+If you find a junction.express website that you believe violates these Terms, please [let us know](mailto:junction@wildfire.world).
 
 **License.** By uploading or sharing Content, you grant us a worldwide, royalty-free, transferable, sub-licensable, and non-exclusive license to use, store, reproduce, modify, distribute, adapt, publicly display, and publish the Content solely for the purpose of providing and improving our products and Services and promoting your website. This license also allows us to use third-party service to store your Content using [Digital Ocean](https://www.digitalocean.com/), [Wasabi](https://www.wasabi.com/), [Cloudfare](https://www.cloudflare.com/). You also give other junction.express users permission to share your publicly-shared Bluprints of your junction on other junction.express websites and add their own Content to it (aka use your Bluprints as editable templates on their accounts). This is while wnsuring none of your data is shared with anyone using the Bluprints you have created.
 
-**Removing and Back-up of your Content.** If you delete Content after enabling 'Soft-delete' your Content will be aavailable in 'Deleted Records'. Any act of deletion without enabling the feature will to deletion of the Content from your Junction but will have a version saved as a back-up for a period of a month, during which you can contact us at junction@wildfire.world to retreive the data.
+**Removing and Back-up of your Content.** If you delete Content after enabling 'Soft-delete' your Content will be available in 'Deleted Records'. Any act of deletion without enabling the feature will to deletion of the Content from your Junction but will have a version saved as a back-up for a period of a month, during which you can contact us at junction@wildfire.world to retreive the data.
 
 We follow a daily back-up cycle so any content deleted before 24 hours from uploading will not have a back-up and will be irretrivably deleted from the servers.
 
@@ -144,7 +144,7 @@ To be transparent about what is and isn’t allowed on jucntion, we’ve put tog
 
 *Intellectual property infringement.*junction allows you to store and share some aspects of your information, so we recognize that copyrighted materials are often used in fair use context. We strongly support this and urge copyright holders to take this into consideration before submitting complaints. If you’re not sure, a good rule of thumb is to always ask the rights holder for permission before using their information that is publicly shared.
 
-*Sexually explicit material.*We know that there may be different definitions of this, but generally, we define sexually explicit material as visual depictions of sexually explicit acts. Nudity, in and of itself, is fine.
+*Sexually explicit material.*We know that there may be different definitions of this, but generally, we define sexually explicit material as visual depictions of sexually explicit acts. Nudity, in and of itself, is fine. &&??
 
 *Gambling.*Discussing gambling on your site isn’t a problem. However, operating an online gambling service (including poker)? No dice. Please also be aware that if your site is primarily designed to link to other gambling sites, we consider this spam, and a breach of the user guidelines.
 
@@ -162,7 +162,7 @@ As we ask others to respect our intellectual property rights, we respect the int
 10\. Intellectual Property
 --------------------------
 
-The Agreement doesn’t transfer any Samanvay Web Private Limited or third-party intellectual property to you, and all right, title, and interest in and to such property remains (as between Samanvay Web Private Limited and you) solely with Samanvay Web Private Limited. Samanvay Web Private Limited, junction.express, and other trademarks, service marks, graphics, and logos used in connection with our Services may be the trademarks of other third parties. Using our Services doesn’t grant you any right or license to reproduce or otherwise use any Samanvay Web Private Limited or third-party trademarks.
+The Agreement doesn’t transfer any Samanvay Web Private Limited or third-party intellectual property to you, and all right, title, and interest in and to such property remains (as between Samanvay Web Private Limited and you) solely with Samanvay Web Private Limited. Samanvay Web Private Limited, wildfire, junction.express, and other trademarks, service marks, graphics, and logos used in connection with our Services may be the trademarks of other third parties. Using our Services doesn’t grant you any right or license to reproduce or otherwise use any Samanvay Web Private Limited or third-party trademarks.
 
 11\. Third-Party Services
 -------------------------
@@ -196,7 +196,7 @@ You can stop using our Services at any time, or, if you use a Paid Service, you 
 14\. Disclaimers
 ----------------
 
-Our Services are provided “as is.” Samanvay Web Private Limited and its suppliers and licensors hereby disclaim all warranties of any kind, express or implied, to the maximum extent allowed by applicable law, including, without limitation, the warranties of merchantability, fitness for a particular purpose and non-infringement. Neither Samanvay Web Private Limited, nor its suppliers and licensors, makes any warranty that our Services will be error free or that access thereto will be continuous or uninterrupted. You understand that you obtain our Services at your own discretion and risk.
+Our Services are provided “as is.” Samanvay Web Private Limited and its suppliers and licensors hereby disclaim all warranties of any kind, express or implied, to the maximum extent allowed by applicable law, including, without limitation, the warranties of merchantability, fitness for a particular purpose and non-infringement. Neither Samanvay Web Private Limited, nor its suppliers and licensors, makes any warranty that our services will be error free or that access thereto will be continuous or uninterrupted. You understand that you obtain our Services at your own discretion and risk.
 
 15\. Jurisdiction and Applicable Law.
 -------------------------------------
