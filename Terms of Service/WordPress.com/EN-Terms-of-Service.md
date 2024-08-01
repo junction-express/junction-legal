@@ -152,7 +152,7 @@ To be transparent about what is and isn’t allowed on jucntion, we’ve put tog
 
 *Impersonation.*Don’t claim to be a person or organization you’re not. 
 
-**HTTPS.** We offer free HTTPS on all junction.express APIs by default via [Let’s Encrypt](https://letsencrypt.org/). 
+**HTTPS.** We offer free HTTPS on all junction.express APIs by default via [Cloudflare](https://www.cloudflare.com/). 
 
 9\. Copyright Policy
 --------------------
